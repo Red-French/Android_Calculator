@@ -16,7 +16,7 @@
             android:orientation="vertical"
             android:layout_width="match_parent"
             android:layout_height="165dp"
-            android:background="#ff38c5c6">
+            android:background="#5c38c638">
 
             <TextView
                 android:layout_width="fill_parent"
@@ -29,7 +29,8 @@
                 android:gravity="right"
                 android:paddingLeft="10dp"
                 android:paddingRight="10dp"
-                android:paddingTop="50dp"/>
+                android:paddingTop="50dp"
+                android:textColor="#2b2626"/>
         </LinearLayout>
 
         <LinearLayout
@@ -183,11 +184,12 @@
                     android:layout_height="wrap_content"
                     android:text="CLEAR"
                     android:id="@+id/button10"
-                    android:background="#ff38c5c6"
-                    android:textColor="#ffffff"
+                    android:background="#a2dea0"
+                    android:textColor="#2b2626"
                     android:textSize="26sp"
                     android:layout_weight="1"
-                    android:layout_centerInParent="true"/>
+                    android:layout_centerInParent="true"
+                    />
             </RelativeLayout>
 
             <Button
