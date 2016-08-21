@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Marshmallow_Calculator</string>
+    <string name="clear">clear</string>
 </resources>
