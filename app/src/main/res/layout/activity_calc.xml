@@ -16,7 +16,7 @@
             android:orientation="vertical"
             android:layout_width="match_parent"
             android:layout_height="165dp"
-            android:background="#5c38c638">
+            android:background="#bbbbbb">
 
             <TextView
                 android:layout_width="fill_parent"
@@ -184,12 +184,10 @@
                     android:layout_height="wrap_content"
                     android:text="CLEAR"
                     android:id="@+id/clearBtn"
-                    android:background="#a2dea0"
-                    android:textColor="#2b2626"
-                    android:textSize="26sp"
+                    android:background="#4a5e9b"
                     android:layout_weight="1"
                     android:layout_centerInParent="true"
-                    />
+                    android:textSize="24sp"/>
             </RelativeLayout>
 
             <Button
